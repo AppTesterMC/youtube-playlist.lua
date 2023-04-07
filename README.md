@@ -9,7 +9,8 @@ Playlist Parser for Youtube Playlist Feeds of the form:
 Requires a WORKING youtube playlist parser
 (tested with https://raw.githubusercontent.com/videolan/vlc/master/share/lua/playlist/youtube.lua).
 
-INSTALLATION:
+## Installation
+
 Put the youtube_playlist_feed.lua file into (Create directory if it does not exist):
 * Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua\playlist\
 * Windows (current user): %APPDATA%\VLC\lua\playlist\
@@ -20,12 +21,10 @@ Put the youtube_playlist_feed.lua file into (Create directory if it does not exi
 
 
 ---------------------------------------------------------------------------------
----------------------------------------------------------------------------------
 
 
-There is a helper extension append_yt_pl_feed.lua to get You started to build up a Playlist Feed.
+There is also a helper extension append_yt_pl_feed.lua to get You started to build up a Playlist Feed.
 
-INSTALLATION:
 Put the append_yt_pl_feed.lua file into (Create directory if it does not exist):
 * Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua\extensions\
 * Windows (current user): %APPDATA%\VLC\lua\extensions\
