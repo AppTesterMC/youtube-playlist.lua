@@ -2,8 +2,10 @@
 
 This is a slight modified version of roland1's [YouTube Channel Feed](https://www.opendesktop.org/p/1412578)
 
-Playlist Parser for Youtube Playlist Feeds of the form
-https://www.youtube.com/feeds/videos.xml?playlist_id=HERE_GOES_THE_PLAYLIST_ID
+Playlist Parser for Youtube Playlist Feeds of the form:
+
+`https://www.youtube.com/feeds/videos.xml?playlist_id=HERE_GOES_THE_PLAYLIST_ID `
+
 Requires a WORKING youtube playlist parser
 (tested with https://raw.githubusercontent.com/videolan/vlc/master/share/lua/playlist/youtube.lua).
 
