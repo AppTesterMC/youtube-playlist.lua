@@ -1,5 +1,7 @@
 # VLC playlist parser for Youtube playlists
 
+![VLC playlist feed](https://github.com/AppTesterMC/youtube-playlist.lua/blob/master/doc/logo.png?raw=true)
+
 This is a slight modified version of roland1's [YouTube Channel Feed](https://www.opendesktop.org/p/1412578)
 
 Playlist Parser for Youtube Playlist Feeds of the form:
