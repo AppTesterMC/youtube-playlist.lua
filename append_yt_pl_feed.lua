@@ -1,5 +1,6 @@
 --[[
-Copyright (C) 2023 apptestermc
+Copyright (C) 2020 roland1
+modified at 2023 by apptestermc
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
