@@ -4,7 +4,9 @@
 
 This is a slight modified version of roland1's [YouTube Channel Feed](https://www.opendesktop.org/p/1412578)
 
-_WARNING!! This method only returns the top/last **15 entries** of the playlist_
+---------------------------------------------------------------------------------
+WARNING!! This method only returns the top/last _15 entries_ of the playlist
+---------------------------------------------------------------------------------
 
 Playlist Parser for Youtube Playlist Feeds of the form:
 
